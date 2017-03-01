@@ -1,7 +1,7 @@
 {
     fields: {
         title: '1',
-	name: 'zhangsan'
+	    name: 'zhangsan1'
     },
     files: {
         upload: File{
