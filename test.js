@@ -6,6 +6,7 @@
     files: {
         upload: File{
             domain: null,
+            test:1111,
             _events: {
                 
             },
